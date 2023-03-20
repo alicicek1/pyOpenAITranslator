@@ -5,7 +5,7 @@ import json
 
 
 def register_chat_gpt():
-    openai.api_key = "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"
+    openai.api_key = "sk-WyYJHHZBzZQ44bnB3HPBT3BlbkF8hpdJWaFrJE7YvLR1cJ"
 
 
 def chat_gpt_chat_completion_content(text_content) -> str:
